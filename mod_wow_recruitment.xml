@@ -117,4 +117,18 @@
             </fieldset>
         </fields>
     </config>
+    <administration>
+        <!-- Administration Menu Section -->
+        <menu link='index.php?option=mod_wow_recruitment'>MOD_WOW_RECRUITMENT</menu>		
+        <!-- Administration Main File Copy Section -->
+        <!-- Note the folder attribute: This attribute describes the folder
+        to copy FROM in the package to install therefore files copied
+        in this section are copied from /admin/ in the package -->
+        <languages folder="administrator/language">
+            <language tag="en-GB">en-GB/en-GB.mod_wow_recruitment.ini</language>
+            <language tag="en-GB">en-GB/en-GB.mod_wow_recruitment.sys.ini</language>
+            <language tag="de-DE">de-DE/de-DE.mod_wow_recruitment.ini</language>
+            <language tag="de-DE">de-DE/de-DE.mod_wow_recruitment.sys.ini</language>
+        </languages>
+    </administration>
 </extension>
