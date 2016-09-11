@@ -14,6 +14,7 @@
         <filename>helper.php</filename>
         <folder>fields</folder>
         <folder>tmpl</folder>
+        <folder>language</folder>
     </files>
     <languages folder="language">
         <language tag="en-GB">en-GB/en-GB.mod_wow_recruitment.ini</language>
@@ -119,11 +120,14 @@
     </config>
     <administration>
         <!-- Administration Menu Section -->
-        <menu link='index.php?option=mod_wow_recruitment'>MOD_WOW_RECRUITMENT</menu>		
+        <menu link='index.php?option=mod_wow_recruitment'>MOD_WOW_RECRUITMENT</menu>
         <!-- Administration Main File Copy Section -->
         <!-- Note the folder attribute: This attribute describes the folder
         to copy FROM in the package to install therefore files copied
         in this section are copied from /admin/ in the package -->
+        <files>
+            <folder>language</folder>
+        </files>
         <languages folder="administrator/language">
             <language tag="en-GB">en-GB/en-GB.mod_wow_recruitment.ini</language>
             <language tag="en-GB">en-GB/en-GB.mod_wow_recruitment.sys.ini</language>
