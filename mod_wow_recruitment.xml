@@ -23,7 +23,7 @@
         <language tag="de-DE">de-DE/de-DE.mod_wow_recruitment.sys.ini</language>
     </languages>
     <updateservers>
-        <server type="collection" priority="1" name="MulderEric Github">https://raw.githubusercontent.com/muldereric/joomla_mod_wow_recruitment/master/updates.xml</server>
+        <server type="collection" priority="1" name="MulderEric Github">https://raw.githubusercontent.com/muldereric/joomla_mod_wow_recruitment/master/mod_wow_recruitment_updates.xml</server>
     </updateservers>
     <media folder="media" destination="mod_wow_recruitment">
         <folder>css</folder>
