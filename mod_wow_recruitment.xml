@@ -7,7 +7,7 @@
     <license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
     <authorEmail>muldereric83@gmail.com</authorEmail>
     <authorUrl>https://github.com/muldereric/joomla_mod_wow_recruitment/</authorUrl>
-    <version>@REVISION@</version>
+    <version>rev 21</version>
     <description>MOD_WOW_RECRUITMENT_DESC</description>
     <files>
         <filename module="mod_wow_recruitment">mod_wow_recruitment.php</filename>
@@ -22,7 +22,7 @@
         <language tag="de-DE">de-DE/de-DE.mod_wow_recruitment.sys.ini</language>
     </languages>
     <updateservers>
-        <server type="collection" priority="1" name="demulders development">https://github.com/muldereric/Joomla3/blob/master/extensions.xml</server>
+        <server type="collection" priority="1" name="MulderEric Github">https://raw.githubusercontent.com/muldereric/joomla_mod_wow_recruitment/master/updates.xml</server>
     </updateservers>
     <media folder="media" destination="mod_wow_recruitment">
         <folder>css</folder>
