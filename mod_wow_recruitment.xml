@@ -31,7 +31,7 @@
   </languages>
 
   <updateservers>
-    <server type="collection" priority="1" name="WoW Recruitment">https://demulders.net/sw/joomla/mod_wow_recruitment_updates.xml</server>
+    <server type="extension" priority="1" name="WoW Recruitment">https://demulders.net/sw/joomla/mod_wow_recruitment_updates.xml</server>
   </updateservers>   
 
   <config>
