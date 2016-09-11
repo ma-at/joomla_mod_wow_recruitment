@@ -35,7 +35,7 @@
   </updateservers>   
 
   <config>
-    <fields name="params">
+    <fields name="params" addfieldpath="/modules/mod_wow_recruitment/fields/">
       <fieldset name="basic">
         <field name="note" type="textarea" rows="8" cols="12" default="" label="MOD_WOW_RECRUITMENT_NOTE_LABEL" description="MOD_WOW_RECRUITMENT_NOTE_DESC" />
         <field name="button" type="text" default="" label="MOD_WOW_RECRUITMENT_BUTTON_LABEL" description="MOD_WOW_RECRUITMENT_BUTTON_DESC" />
