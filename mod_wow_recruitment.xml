@@ -2,7 +2,7 @@
 <extension type="module" version="2.5" client="site" method="upgrade">
   <name>WoW Recruitment</name>
   <author>Eric Mulder (original by Branko Wilhelm)</author>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <creationDate>Sep 2016</creationDate>
   <description>MOD_WOW_RECRUITMENT_DESC</description>
 
