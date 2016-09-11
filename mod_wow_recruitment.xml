@@ -7,7 +7,7 @@
     <license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
     <authorEmail>muldereric83@gmail.com</authorEmail>
     <authorUrl>https://github.com/muldereric/joomla_mod_wow_recruitment/</authorUrl>
-    <version>rev 22</version>
+    <version>rev 23</version>
     <description>MOD_WOW_RECRUITMENT_DESC</description>
     <files>
         <filename module="mod_wow_recruitment">mod_wow_recruitment.php</filename>
