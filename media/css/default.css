@@ -51,7 +51,7 @@
     height: 30px;
     display: inline-block;
     position: relative;
-    margin: 1px;
+    margin: 1px 8px;
 }
 
 .mod_wow_recruitment .spec.disabled {

@@ -5,24 +5,7 @@
     <description>A World of Warcraft recruitment module</description>
     <element>mod_wow_recruitment</element>
     <type>module</type>
-    <version>1.1.1</version>
-    <infourl title="mod_wow_recruitment on GitHub">https://github.com/muldereric/joomla_mod_wow_recruitment</infourl>
-    <downloads>
-      <downloadurl type="full" format="zip">https://github.com/muldereric/joomla_mod_wow_recruitment/archive/master.zip</downloadurl>
-    </downloads>
-    <tags>
-      <tag>stable</tag>
-      <tag>free</tag>
-    </tags>
-    <client>0</client>
-    <targetplatform name="joomla" version="3.*"/>
-  </update>
-  <update>
-    <name>WoW Recruitment</name>
-    <description>A World of Warcraft recruitment module</description>
-    <element>mod_wow_recruitment</element>
-    <type>module</type>
-    <version>1.0.4</version>
+    <version>1.1.2</version>
     <infourl title="mod_wow_recruitment on GitHub">https://github.com/muldereric/joomla_mod_wow_recruitment</infourl>
     <downloads>
       <downloadurl type="full" format="zip">https://github.com/muldereric/joomla_mod_wow_recruitment/archive/master.zip</downloadurl>
