@@ -11,7 +11,6 @@ defined('_JEXEC') or die;
 
 abstract class ModWowRecruitmentHelper
 {
-
     private static $classes = array(
 
         'deathknight' => array(
@@ -69,7 +68,7 @@ abstract class ModWowRecruitmentHelper
             'protection' => 'tank',
             'fury' => 'dd',
             'arms' => 'dd'
-        )
+        ),
         'demonhunter' => array(
             'vengeance' => 'tank',
             'havoc' => 'dd',

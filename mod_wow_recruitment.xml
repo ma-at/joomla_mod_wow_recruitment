@@ -2,7 +2,7 @@
 <extension type="module" version="2.5" client="site" method="upgrade">
   <name>WoW Recruitment</name>
   <author>Eric Mulder (original by Branko Wilhelm)</author>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <creationDate>Sep 2016</creationDate>
   <description>A World of Warcraft recruitment module</description>
 
@@ -14,7 +14,6 @@
     <filename>helper.php</filename>
     <filename>index.html</filename>
     <folder>fields</folder>
-    <folder>language</folder>
     <folder>tmpl</folder>
   </files>
 
@@ -31,7 +30,7 @@
   </languages>
 
   <updateservers>
-    <server type="extension" priority="1" name="WoW Recruitment">https://demulders.net/sw/joomla/mod_wow_recruitment_updates.xml</server>
+    <server type="extension" priority="1" name="WoW Recruitment">https://raw.githubusercontent.com/muldereric/joomla_mod_wow_recruitment/master/mod_wow_recruitment_updates.xml</server>
   </updateservers>   
 
   <config>
