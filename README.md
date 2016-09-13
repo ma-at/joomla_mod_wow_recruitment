@@ -1,4 +1,4 @@
-# joomla_mod_wow_recruitment
+# Joomla! module WoW Recruitment
 Joomla World of Warcraft recruitment module.
 
 Original module was written by Branko Wilhelm who stopped supporting and developing Joomla add-ons early 2016.
